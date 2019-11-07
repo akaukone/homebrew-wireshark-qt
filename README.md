@@ -7,6 +7,6 @@ This repository contains Homebrew formula for
 
 ```
 $ brew tap akaukone/wireshark-qt
-$ brew install akaukone/wireshark-qt
+$ brew install akaukone/wireshark-qt/wireshark
 ```
 

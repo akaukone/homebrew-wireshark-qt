@@ -22,7 +22,7 @@ class Wireshark < Formula
   depends_on "libssh"
   depends_on "lua@5.1"
   depends_on "nghttp2"
-  depends_on "qt
+  depends_on "qt"
 
   def install
     args = std_cmake_args + %W[
